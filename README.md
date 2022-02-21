@@ -25,7 +25,7 @@ print("Rows",len(df.axes[1]))
 ~~~
 
 ## OUTPUT:
-![](ssss.png)
+![](ssss.jfif)
 
 ## RESULT:
 Thus a CSV file is read successfully using python programming.
